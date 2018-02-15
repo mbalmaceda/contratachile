@@ -10,7 +10,6 @@
 						<div class="col-sm-12">
 							<p>Somos una empresa de servicios  RR.HH.  Enfocada en realizar procesos de búsqueda de personal, proyectos en gestión organizacional  y asesorías</p>
 							<ul class="social-links circle">
-								<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
 								<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/in/contrata-chile-2b0a66b4?authType=NAME_SEARCH&authToken=1fqp&locale=es_ES&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A408717348%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-2%2CtarId%3A1483739742272%2Ctas%3Acontrata%20chile"><i class="fa fa-linkedin"></i></a></li>
 							</ul>
 						</div>

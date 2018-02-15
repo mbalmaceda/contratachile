@@ -7,10 +7,8 @@
 			<?php include_once('nav.php'); ?>
 			<?php include_once('intro-page.php'); ?>
 			<section class="main-container">
-
 				<div class="container">
 					<div class="row">
-
 						<!-- main start -->
 						<!-- ================ -->
 						<div class="main col-md-8">
@@ -47,7 +45,6 @@
 							</div>
 						</div>
 						<!-- main end -->
-
 						<!-- sidebar start -->
 						<aside class="col-md-4">
 							<div class="sidebar">
@@ -63,14 +60,12 @@
 										<li><i class="fa fa-envelope pr-10"></i><a href="mailto:contacto@contratachile.cl">contacto@contratachile.cl</a></li>
 									</ul>
 									<ul class="social-links colored circle large">
-										<li class="facebook"><a target="_blank" href="https://www.facebook.com/contratachile"><i class="fa fa-facebook"></i></a></li>
 										<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/in/contrata-chile-2b0a66b4?authType=NAME_SEARCH&authToken=1fqp&locale=es_ES&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A408717348%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-2%2CtarId%3A1483739742272%2Ctas%3Acontrata%20chile"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
 							</div>
 						</aside>
 						<!-- sidebar end -->
-
 					</div>
 				</div>
 			</section>

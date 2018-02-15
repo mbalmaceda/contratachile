@@ -1,28 +1,3 @@
-<div class="header-top">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 col-sm-12">
-				<!-- header-top-first start -->
-				<div class="header-top-first clearfix">
-					<ul class="social-links clearfix hidden-xs">
-						<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-						<li class="facebook"><a target="_blank" href="https://www.facebook.com/contratachile"><i class="fa fa-facebook"></i></a></li>
-					</ul>
-					<div class="social-links hidden-lg hidden-md hidden-sm">
-						<div class="btn-group dropdown">
-							<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt"></i></button>
-							<ul class="dropdown-menu dropdown-animation">
-								<li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li>
-								<li class="facebook"><a target="_blank" href="https://www.facebook.com/contratachile"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<!-- header-top-first end -->
-			</div>
-		</div>
-	</div>
-</div>
 <!-- header-top end -->
 <header class="header fixed clearfix">
 	<div class="container">
